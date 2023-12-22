@@ -5,16 +5,16 @@ Design of a simple online stock market website using **HTML** and **CSS**
 Following are the snapshots of the various pages created:
 
 ## Login Page: 
-<img src="./s5.png" width=50% height=50%>
+![login](https://github.com/ab9106/stock-marketwbsite/blob/main/login.png)
 
 ## My account Page:
-<img src="./s4.png" width=50% height=50%>
+![account](https://github.com/ab9106/stock-marketwbsite/blob/main/register.png)
 
 ## Buy Page:
-<img src="./s3.png" width=50% height=50%>
+![buy](https://github.com/ab9106/stock-marketwbsite/blob/main/buy.png)
 
 ## Sell Page:
-<img src="./s2.png" width=50% height=50%>
+![sell](https://github.com/ab9106/stock-marketwbsite/blob/main/sell.png)
 
 ## My Portfolio Page:
-<img src="./s1.png" width=50% height=50%>
+![portfolio](https://github.com/ab9106/stock-marketwbsite/blob/main/portfolio.png)
